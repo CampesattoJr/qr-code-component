@@ -1,0 +1,6 @@
+:root{
+    --primary-ligth-color: hsl(0, 0%, 100%);
+    --second-ligth-color: hsl(212, 45%, 89%);
+    --primary-dark-color: hsl(220, 15%, 55%);
+    --second-dark-color: hsl(218, 44%, 22%);
+}
